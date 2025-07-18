@@ -66,4 +66,4 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkzb3dqc2hqOWZzMHZmZzI5cmtnbnl1M2N4b3licnhqdnVzZmI4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" />
 </p>
 
-<p align="center"><strong><em>"Craft. Code. Conquer"</em></strong></p>
+<p align="center"><strong><em>"From black diamonds to black screens — keep going. ⛷️👨‍💻" </em></strong></p>

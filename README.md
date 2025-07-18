@@ -63,8 +63,8 @@
 ---
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJieXBwOGNlOWtwY213NzFjdm5pYTR3eHlyNGZ3dnBubGFvNmNmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elyFU4qFMAULiW5SNH/giphy.gif" width="200" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkzb3dqc2hqOWZzMHZmZzI5cmtnbnl1M2N4b3licnhqdnVzZmI4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJieXBwOGNlOWtwY213NzFjdm5pYTR3eHlyNGZ3dnBubGFvNmNmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elyFU4qFMAULiW5SNH/giphy.gif" width="200" />
 </p>
 
 <p align="center"><strong><em>"From black diamonds to black screens — keep going. ⛷️👨‍💻" </em></strong></p>

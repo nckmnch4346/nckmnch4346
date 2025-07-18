@@ -1,13 +1,17 @@
-<h1 align="center">console.log("Hi, I'm Nick 👋")</h1>
+<h1 align="center">Hi There! 👋</h1>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZlZ3lhNmprOXhucXY4dHZsZHN4a3Z2ZjRzcTdpcHBudTZyNzJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300"/>
+</p>
 
 ```javascript
-// Hi, I'm Nick! 👋
+// I'm Nick! 👋
 const aboutMe = {
-  name: "Nick Menchero",
+  name: "Nick",
   role: "Full-Stack Developer",
-  hobbies: ["🎮 gaming", "🎿 skiing", "☕ coffee-fueled coding", "📸 meme collecting"],
-  currentlyLearning: ["Next.js", "AWS", "TypeScript"],
-  funFact: "I write better code after coffee ☕ and snowboarding 🏂.",
+  hobbies: ["🎮 Controller Enthusiast", "🎿 Slope Addict", "☕ Full-Stack Daydreamer", "🏋️‍♂️ Gym Rat"],
+  currentlyLearning: ["C++", "AWS"],
+  funFact: ["🛠️ Jack of All Trades (Master of Some)", "🏂 Skiing in winter, debugging in summer", "☕ Fueled by coffee, curiosity, and chaotic commits"]
 };
 
 function sayHi() {
@@ -17,17 +21,6 @@ function sayHi() {
 
 sayHi();
 ```
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZlZ3lhNmprOXhucXY4dHZsZHN4a3Z2ZjRzcTdpcHBudTZyNzJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  🛠️ Jack of All Trades (Master of Some)<br />
-  🏂 Skiing in winter, debugging in summer<br />
-  ☕ Fueled by coffee, curiosity, and chaotic commits<br />
-  🎮 Controller Enthusiast | 🎿 Slope Addict | 🧑‍💻 Full-Stack Daydreamer
-</p>
 
 ---
 
@@ -41,11 +34,10 @@ sayHi();
 ## ✨ A little more about me...
 - 🎧 Music fuels my coding sessions
 - 🎮 Gamer on weekends (or whenever I feel like it)
-- 🐱 Cat person (but dogs are cool too)
+- 🐱 Cat person & dad (but dogs are cool too)
 - 🤓 Always tinkering, always learning
 - ⛷️ Rookie Skier (1 season on belt)
 - 🏂 Rookie Snowboarder (3 days on belt)
-- 🛠️ 🎨 🧑‍💻 🎯 Jack of all trades, master of some!
 
 ---
 

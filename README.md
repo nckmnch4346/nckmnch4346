@@ -24,8 +24,8 @@ const aboutMe = {
 };
 
 function sayHi() {
-  console.log("Thanks for visiting my GitHub profile! 👨‍💻");
-  console.log("Feel free to reach out or stalk my commits.");
+  console.log("Thanks for visiting! 💻");
+  console.log("Come for the code, stay for the chaos.");
 }
 
 sayHi();

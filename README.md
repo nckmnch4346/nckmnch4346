@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/?size=60&id=ddJXF_L1PvL_&format=png&color=000000" />
   </a>
     <a href="https://discordapp.com/users/700171009625686076" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=2tVBfYEPOkAs&format=png&color=000000" /> 
+    <img src="https://img.icons8.com/?size=60&id=rEpcydhqrp6v&format=png&color=000000" /> 
   </a> 
   <a href="https://steamcommunity.com/id/mypeach" target="_blank">
     <img src="https://img.icons8.com/?size=60&id=tsX8Yh7dElgr&format=png&color=000000" />

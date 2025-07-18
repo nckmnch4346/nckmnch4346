@@ -1,21 +1,25 @@
-<h1 align="center">Hey there! 👋 I'm Nick</h1>
+<h1 align="center">Hey there, I'm Nick! 👋</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4MThzZ21wdXh6a3VseXR3eWxuNTI4NHdodWRwYzBwdmhhbGFxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200"/>
 </p>
 
-<p align="center">
-  🚀 Passionate about building things on the Web & Mobile <br />
-  🎨 A big fan of clean code & clean UI <br />
-  🛠 Currently hacking away at: <strong>Loopin</strong> <br />
-  💡 Always learning something new (currently: <strong>Ski & Snowboard</strong>) <br />
+<p align="left">
+  🛠️ Jack of All Trades (Master of Some)<br />
+  🏂 Skiing in winter, debugging in summer<br />
+  ☕ Fueled by coffee, curiosity, and chaotic commits<br />
+  🎮 Gamer | 🎨 Designer | 🧑‍💻 Developer | 📸 Meme Collector
 </p>
 
 ---
 
-## 🌟 Tech Stack I Love
+## 🤓 What I Break Things With (and Fix Them Too)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,aws,github" />
+  <img src="https://skillicons.dev/icons?i=html, css, javascript, typescript, react, nextjs, tailwind, wordpress, 
+nodejs, express, mongodb, firebase, aws, 
+java, kotlin, 
+linux, npm, postman, github, vscode, figma, ps, ai
+" />
 </p>
 
 ---

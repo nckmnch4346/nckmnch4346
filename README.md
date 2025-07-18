@@ -41,7 +41,7 @@
 
 ## 🎮 Let's Connect & Be Internet Friends!
 <p align="left">
-  📬 I don’t bite — I just code, game, and occasionally post memes.
+  📬 I don’t bite — I just code, game, and occasionally post memes.</br>
       Add me if you want to talk tech, collaborate, or just share your latest Steam sale regrets. 🎮☕
 </p>
 

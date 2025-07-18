@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Nick</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZpZGp5NGczcDcwczNudmZtM2xybDRjd3NhbTE3ZXdyaDF3c29vaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4MThzZ21wdXh6a3VseXR3eWxuNTI4NHdodWRwYzBwdmhhbGFxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200"/>
 </p>
 
 <p align="center">

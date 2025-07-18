@@ -46,17 +46,17 @@
 
 
 <p align="left">
-  <a href="https://discordapp.com/users/700171009625686076" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
-  </a> 
   <a href="https://www.linkedin.com/in/nick-menchero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" />
   </a> 
   <a href="https://www.facebook.com/paomench/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.icons8.com/?size=100&id=9foSA61V9037&format=png&color=000000" />
   </a>
+    <a href="https://discordapp.com/users/700171009625686076" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=5RKOijedhIGw&format=png&color=000000" /> 
+  </a> 
   <a href="https://steamcommunity.com/id/mypeach" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.icons8.com/?size=100&id=12465&format=png&color=000000" />
   </a>
 </p>
 

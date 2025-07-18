@@ -1,10 +1,10 @@
 <h1 align="center">Hey there, I'm Nick! 👋</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp4MThzZ21wdXh6a3VseXR3eWxuNTI4NHdodWRwYzBwdmhhbGFxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZlZ3lhNmprOXhucXY4dHZsZHN4a3Z2ZjRzcTdpcHBudTZyNzJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300"/>
 </p>
 
-<p align="left">
+<p align="center">
   🛠️ Jack of All Trades (Master of Some)<br />
   🏂 Skiing in winter, debugging in summer<br />
   ☕ Fueled by coffee, curiosity, and chaotic commits<br />

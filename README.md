@@ -15,11 +15,7 @@
 
 ## 🤓 What I Break Things With (and Fix Them Too)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, javascript, typescript, react, nextjs, tailwind, wordpress, 
-nodejs, express, mongodb, firebase, aws, 
-java, kotlin, 
-linux, npm, postman, github, vscode, figma, ps, ai
-" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,wordpress,nodejs,express,mongodb,firebase,aws,java,kotlin,linux,npm,postman,github,vscode,figma,ps,ai"/>
 </p>
 
 ---

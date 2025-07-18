@@ -9,7 +9,8 @@
 const aboutMe = {
   name: "Nick",
   role: "Full-Stack Developer",
-  hobbies: ["🎮 Controller Enthusiast", "🎿 Slope Addict", "☕ Full-Stack Daydreamer", "🏋️‍♂️ Gym Rat"],
+  hobbies: ["🎮 Controller Enthusiast",
+"🎿 Slope Addict", "☕ Full-Stack Daydreamer", "🥁 Weekend Drummer","🏋️‍♂️ Gym Rat"],
   currentlyLearning: ["C++", "AWS"],
   funFact: ["🛠️ Jack of All Trades (Master of Some)", "🏂 Skiing in winter, debugging in summer", "☕ Fueled by coffee, curiosity, and chaotic commits"]
 };

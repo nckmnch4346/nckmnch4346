@@ -39,16 +39,22 @@
 
 ---
 
-## 🔗 Let's Connect!
+🎮 Let's Connect & Be Internet Friends!
+📬 I don’t bite — I just code, game, and occasionally post memes.
+Add me if you want to talk tech, collaborate, or just share your latest Steam sale regrets. 🎮☕
+
 <p align="center">
+  <a href="https://discordapp.com/users/700171009625686076" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
+  </a> 
   <a href="https://www.linkedin.com/in/nick-menchero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-<!--   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" />
-  </a> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
   <a href="https://www.facebook.com/paomench/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/id/mypeach" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
 

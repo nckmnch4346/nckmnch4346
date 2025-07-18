@@ -13,7 +13,7 @@ const aboutMe = {
     "🎿 Slope Addict",
     "☕ Full-Stack Daydreamer",
     "🥁 Weekend Drummer",
-    "🏋️‍♂️ Gym Rat",
+    "🏋️‍♂️ Lifting… Carefully",
   ],
   currentlyLearning: ["C++", "AWS"],
   funFact: [

@@ -47,16 +47,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nick-menchero/" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=60ZV_wYC0BM2&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=40&id=60ZV_wYC0BM2&format=png&color=000000" />
   </a> 
   <a href="https://www.facebook.com/paomench/" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=ddJXF_L1PvL_&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=40&id=ddJXF_L1PvL_&format=png&color=000000" />
   </a>
     <a href="https://discordapp.com/users/700171009625686076" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=rEpcydhqrp6v&format=png&color=000000" /> 
+    <img src="https://img.icons8.com/?size=40&id=rEpcydhqrp6v&format=png&color=000000" /> 
   </a> 
   <a href="https://steamcommunity.com/id/mypeach" target="_blank">
-    <img src="https://img.icons8.com/?size=60&id=tsX8Yh7dElgr&format=png&color=273340" />
+    <img src="https://img.icons8.com/?size=40&id=tsX8Yh7dElgr&format=png&color=000000" />
   </a>
 </p>
 

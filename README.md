@@ -1,5 +1,21 @@
 <h1 align="center">console.log("Hi, I'm Nick 👋")</h1>
 
+// Hi, I'm Nick! 👋
+const aboutMe = {
+  name: "Nick Menchero",
+  role: "Full-Stack Developer",
+  hobbies: ["🎮 gaming", "🎿 skiing", "☕ coffee-fueled coding", "📸 meme collecting"],
+  currentlyLearning: ["Next.js", "AWS", "TypeScript"],
+  funFact: "I write better code after coffee ☕ and snowboarding 🏂.",
+};
+
+function sayHi() {
+  console.log("Thanks for visiting my GitHub profile! 👨‍💻");
+  console.log("Feel free to reach out or stalk my commits.");
+}
+
+sayHi();
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZlZ3lhNmprOXhucXY4dHZsZHN4a3Z2ZjRzcTdpcHBudTZyNzJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300"/>
 </p>

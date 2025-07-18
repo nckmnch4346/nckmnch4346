@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Nick</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRraTY1M2Vza2lyc3Z6MnhkaHFjYzV4OXp3cHh0czFlbnYxeTR3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZpZGp5NGczcDcwczNudmZtM2xybDRjd3NhbTE3ZXdyaDF3c29vaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkzb3dqc2hqOWZzMHZmZzI5cmtnbnl1M2N4b3licnhqdnVzZmI4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" />
 </p>
 
 <p align="center"><em>"Keep it fun. Keep it weird. Keep coding."</em> 🚀</p>

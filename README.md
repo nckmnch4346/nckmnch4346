@@ -39,9 +39,12 @@
 
 ---
 
-🎮 Let's Connect & Be Internet Friends!
-📬 I don’t bite — I just code, game, and occasionally post memes.
-Add me if you want to talk tech, collaborate, or just share your latest Steam sale regrets. 🎮☕
+## 🎮 Let's Connect & Be Internet Friends!
+<p align="left">
+  📬 I don’t bite — I just code, game, and occasionally post memes.
+      Add me if you want to talk tech, collaborate, or just share your latest Steam sale regrets. 🎮☕
+</p>
+
 
 <p align="center">
   <a href="https://discordapp.com/users/700171009625686076" target="_blank">

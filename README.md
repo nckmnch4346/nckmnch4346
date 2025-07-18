@@ -8,7 +8,7 @@
   🛠️ Jack of All Trades (Master of Some)<br />
   🏂 Skiing in winter, debugging in summer<br />
   ☕ Fueled by coffee, curiosity, and chaotic commits<br />
-  🎮 Gamer | 🎨 Designer | 🧑‍💻 Developer | 📸 Meme Collector
+  🎮 Controller Enthusiast | 🎿 Slope Addict | 🧑‍💻 Full-Stack Daydreamer | 📸 Meme Hoarder
 </p>
 
 ---

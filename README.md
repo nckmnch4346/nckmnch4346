@@ -15,7 +15,7 @@ const aboutMe = {
     "🥁 Weekend Drummer",
     "🏋️‍♂️ Lifting… Carefully",
   ],
-  currentlyLearning: ["C++", "AWS"],
+  currentlyLearning: ["C#", "AWS"],
   funFact: [
     "🛠️ Jack of All Trades (Master of Some)",
     "🏂 Skiing in winter, debugging in summer",

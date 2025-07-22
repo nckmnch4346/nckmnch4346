@@ -46,8 +46,8 @@ sayHi();
 - 🎮 Gamer on weekends (or whenever I feel like it)
 - 🐱 Cat person & dad (but dogs are cool too)
 - 🤓 Always tinkering, always learning
-- ⛷️ Rookie Skier (1 season on belt)
-- 🏂 Rookie Snowboarder (3 days on belt)
+- ⛷️ Rookie Skier (1 season)
+- 🏂 Rookie Snowboarder (3 days)
 
 ---
 
